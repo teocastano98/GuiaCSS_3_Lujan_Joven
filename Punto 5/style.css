@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+}
+#padre{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+}
+div {
+    background-color: #49e;
+    height: 100px;
+    width: 100px;
+    border: 1px solid #000;
+}
+
+/* descomentar o comentar segun corresponda para ver el punto del ejercicio que desee ver su resultado */
+
+/* ---------------------------------------------- */
+
+/* a. Posicionar la caja 2 encima de la caja 3 sin perder su lugar en el flujo de contenido. */
+
+/* #caja2{
+    position: absolute;
+    left: 50px; 
+} */
+
+/*lo pongo asi para que se vea que la caja 2 esta sobre la caja 3 */
+
+/* ---------------------------------------------- */
+
+/* b. Posicionar la caja 3 a 20px del fondo y 70px del lado izquierdo sin importar su lugar en el flujo de contenido. */
+
+/* #caja3{
+    position: absolute;
+    bottom: 20px;
+    left: 70px;
+} */
+
+/* ---------------------------------------------- */
+
+/* c. Colocar las 4 cajas en el centro de la página. */
+
+/* section{
+    position: absolute;
+    top: 50%;
+} */
+
+/* Para que funsione se debe de comentar o borrar el position del #padre */
+
+/* ---------------------------------------------- */
+
+/* d. Colocar las 4 cajas en cada borde de la página de forma opuesta y respetando la numeración, */
+
+/* #caja1 {
+    position: absolute;
+    top: 0;
+    left: 40%;
+}
+
+#caja2 {
+    position: absolute;
+    top: 40%;
+    right: 0;
+}
+
+#caja3 {
+    position: absolute;
+    bottom: 0;
+    right: 40%;
+}
+
+#caja4 {
+    position: absolute;
+    bottom: 40%;
+    left: 0;
+} */
+
+
+
+
+
+
+
