@@ -1,0 +1,16 @@
+.nav-lateral{
+    width: 30%;
+    height: 100vh;
+    background-color: aquamarine;
+    position: relative;
+}
+
+ul{
+    position: absolute;
+    bottom: 50%;
+}
+
+li{
+    font-weight: bold;
+    font-size: 25px;
+}
